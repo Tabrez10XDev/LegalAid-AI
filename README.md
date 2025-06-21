@@ -14,7 +14,7 @@ This Chrome extension automatically detects and summarizes **Terms of Service (T
 
 - **Tabrez Mohammed** 
 - **Ashish Ubale**  
-- **Ishan Shash**
+- **Ishan Shah**
 
 ## 🚀 How to Use
 
