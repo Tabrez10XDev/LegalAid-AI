@@ -12,9 +12,9 @@ This Chrome extension automatically detects and summarizes **Terms of Service (T
 
 ## 🤝 Collaborators
 
-- **Tabrez Mohammed** 
-- **Ashish Ubale**  
-- **Ishan Shash**
+- [**Tabrez Mohammed**](https://github.com/Tabrez10XDev) 
+- [**Ashish Ubale**](https://github.com/ASH367)
+- [**Ishan Shah**](https://github.com/ishanshah001)
 
 ## 🚀 How to Use
 
